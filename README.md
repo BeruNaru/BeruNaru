@@ -1,5 +1,3 @@
-Hi 👋
-
 Security Developer Desired College Student
 
 

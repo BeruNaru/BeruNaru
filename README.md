@@ -1,5 +1,8 @@
 Security Developer Desired College Student
 
+리버스 엔지니어링, 러스트, C++등 관심언어 및 좋아하는 기술분야에 흥미를 느낍니다. 
+
+
 
 <div align="center">
 

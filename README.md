@@ -1,8 +1,8 @@
 Security Developer Desired College Student
 
-Computer Security Server, Reverse Engineering 
-Game hacking, Malicious Code Analysis Practice
-
+Computer and Embedded Security, Reverse Engineering 
+iot, VR, Game hacking, Malicious Code Analysis Practice
+Malicious code development 
 
 ![BeruNaru's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeruNaru&show_icons=true&theme=blackwhite)
 

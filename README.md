@@ -2,6 +2,7 @@
 KIWON SONG
 
 <h3> Study </h3>
+<br>Rust
 <br>Reverse Engineering 
 <br>Malicious Code Analysis
 
@@ -11,7 +12,6 @@ KIWON SONG
 <br>VR
 
 <h3> tool </h3>
-
 <br>viusal studio
 <br>visual studio code
 <br>ida freeware

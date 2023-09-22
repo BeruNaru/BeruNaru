@@ -1,4 +1,4 @@
-<h2> about me</h2>
+<h2> About me</h2>
 KIWON SONG
 
 <h3> Study </h3>
@@ -17,4 +17,7 @@ KIWON SONG
 <br>ida freeware
 <br>pycharm
 
+<h3> lang</h3>
+<img src="https://img.shields.io/badge/c-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 

@@ -1,4 +1,4 @@
-<h2> About me</h2>
+<h1 align = "center"> About me</h1>
 
 <h3 align= "center"> Study </h3>
 <p align="center">

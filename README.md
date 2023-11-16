@@ -4,6 +4,7 @@
 <p align="center">
 <br>Reverse Engineering 
 <br>Malicious Code Analysis
+<br> algebra and number theory
 </p>
 
 
@@ -12,6 +13,7 @@
 <br>Reverse Engineering 
 <br>iot
 <br>VR
+<br> Crypto math, Number theory
 </p>
 
 <h3 align="center"> tool </h3>
